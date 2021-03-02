@@ -3,7 +3,7 @@
 - Projects I've worked on:
   - [Criminal Database (College) - Username: anon Pass: doob1234](https://criminaldbms.herokuapp.com/)
   - [COVID-MS (Hackathon) - Username: ericm Pass: pass](https://unscriptcovidms.herokuapp.com/)
-  - [Word Cloud Generating Telegram Bot](https://github.com/ericmiranda7/tele-wordcloud)
+  - [Word Cloud Generating Telegram Bot @msgcloud_bot](https://github.com/ericmiranda7/tele-wordcloud)
 - Courses:
   - [FullStackOpen 2020](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/f87be1598033c0a2d71f8fd168487adb)
   - [Building Web Applications in Django](https://coursera.org/share/765db7943c5d7dd3b9133e2f07aad842)

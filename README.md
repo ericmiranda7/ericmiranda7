@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Web Development and Machine Learning
+- Projects I've worked on:
 
 <!--
 **ericmiranda7/ericmiranda7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,9 +4,9 @@
   - [Time-Taggr Web App](https://github.com/ericmiranda7/time-taggr)
   - [SCAROB IoT Project](https://github.com/ericmiranda7/scarob)
   - [Criminal Database Management Website](https://criminaldbms.herokuapp.com/)
-  - [COVID-MS (Hackathon)](https://unscriptcovidms.herokuapp.com/)
   - [Word Cloud Generating Telegram Bot - @msgcloud_bot](https://github.com/ericmiranda7/tele-wordcloud)
   - [Vaccine slot availability Telegram Bot](https://github.com/ericmiranda7/cowin-bot)
+  - [COVID-MS (Hackathon)](https://unscriptcovidms.herokuapp.com/)
 
 <!-- - 💻 Certificate courses:
   - [FullStackOpen 2020](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/f87be1598033c0a2d71f8fd168487adb)

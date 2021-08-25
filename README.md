@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Web Development and Machine Learning
+- 🔥 Currently working on [Lightning Cards](https://github.com/unamedcardgame/lightning-cards)
 - 🔭 Some of the projects I've worked on:
   - [Time-Taggr Web App](https://github.com/ericmiranda7/time-taggr)
   - [SCAROB IoT Project](https://github.com/ericmiranda7/scarob)

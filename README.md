@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Web Development and Machine Learning
+- 🌱 I’m currently learning Web Development and Machine Learning (Last touched ML a year ago, hope to get back to it :') )
 - 🔥 Currently working on [Lightning Cards](https://github.com/unamedcardgame/lightning-cards)
 - 🔭 Some of the projects I've worked on:
   - [Time-Taggr Web App](https://github.com/ericmiranda7/time-taggr)

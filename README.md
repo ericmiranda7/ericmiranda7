@@ -1,13 +1,10 @@
-### Hi there 👋
-- 🌱 I’m currently learning Web Development and Machine Learning (Last touched ML a year ago, hope to get back to it :') )
-- 🔥 Currently working on [Lightning Cards](https://github.com/unamedcardgame/lightning-cards)
-- 🔭 Some of the projects I've worked on:
-  - [Time-Taggr Web App](https://github.com/ericmiranda7/time-taggr)
+### Hi !
+- 🌱 Currently learning programming abstraction & designs, systems programming <3
+- 🔥 Poor quality release of a novel game idea [Lightning Cards](https://github.com/unamedcardgame/lightning-cards)
+- 🔭 Some other projects I've worked on:
   - [SCAROB IoT Project](https://github.com/ericmiranda7/scarob)
-  - [Criminal Database Management Website](https://criminaldbms.herokuapp.com/)
   - [Word Cloud Generating Telegram Bot - @msgcloud_bot](https://github.com/ericmiranda7/tele-wordcloud)
-  - [Vaccine slot availability Telegram Bot](https://github.com/ericmiranda7/cowin-bot)
-  - [COVID-MS (Hackathon)](https://unscriptcovidms.herokuapp.com/)
+- I have a blog [here](https://ericmiranda7.github.io/)
 
 <!-- - 💻 Certificate courses:
   - [FullStackOpen 2020](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/f87be1598033c0a2d71f8fd168487adb)

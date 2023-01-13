@@ -1,5 +1,5 @@
 ### Hi !
-- 🌱 Currently learning programming abstraction & designs, systems programming <3
+- 🌱 Currently learning programming abstraction & designs
 - 🔥 Poor quality release of a novel game idea [Lightning Cards](https://github.com/unamedcardgame/lightning-cards)
 - 🔭 Some other projects I've worked on:
   - [SCAROB IoT Project](https://github.com/ericmiranda7/scarob)

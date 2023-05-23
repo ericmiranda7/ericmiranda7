@@ -1,5 +1,5 @@
 ### Hi !
-- 🌱 Currently learning programming abstraction & designs and [unit Testing!](https://github.com/ericmiranda7/go-with-tests.git)
+- 🌱 Currently learning programming abstraction & designs and [unit testing!](https://github.com/ericmiranda7/go-with-tests.git)
 - 🔥 Poor quality release of a novel game idea [Lightning Cards](https://github.com/unamedcardgame/lightning-cards)
 - 🔭 Some other projects I've worked on:
   - [SCAROB IoT Project](https://github.com/ericmiranda7/scarob)
